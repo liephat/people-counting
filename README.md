@@ -2,8 +2,6 @@
 
 ## Requirements
 
-Following python version and libraries were used to test the program:
-
 - Python 3.6
 - imutils
 - numpy
@@ -17,7 +15,7 @@ pip install opencv-python
 ```
 ## Run instructions
 
-Make sure that videos are stored in a folder '/video' in the directory of the program.
+Make sure that videos are stored in a folder ```/video``` in the directory of the program.
 
 Run the program by typing 
 ```
