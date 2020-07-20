@@ -49,7 +49,7 @@ for video in os.listdir(input_path):
     height = int(input_video.get(cv2.CAP_PROP_FRAME_HEIGHT))
     length = int(input_video.get(cv2.CAP_PROP_FRAME_COUNT))
 
-    print(f"[INFO] fps: {fps} fps, resoultion {width}x{height}")
+    print(f"[INFO] fps: {fps}, resolution: {width}x{height}")
 
     # Create output video file
     output_file = os.path.abspath(os.path.join(output_path, f"{video[:-4]}.avi"))
