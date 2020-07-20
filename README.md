@@ -35,3 +35,5 @@ Optional arguments can be used, e.g. to define a folder to save output videos.
 | -c, --confidence | minimum probability for filtering weak detections |
 
 Note: Every argument has a default value, so you only have to use them when you want to modify a variable.
+
+You can quit analyzing the current video by pressing ```q```.
