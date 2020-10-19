@@ -1,0 +1,5 @@
+.idea
+videos
+output
+__pycache__
+results.csv
